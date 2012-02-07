@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "name": "312 Urban Wheat Ale",
+      "brewery": "Goose Island",
+      "ABV": 4.2,
+      "IBU": 20,
+      "darkness": 3,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/312_urban.gif"
+    },
+    {
+      "name": "Green Line Pale Ale",
+      "brewery": "Goose Island",
+      "ABV": 5.0,
+      "IBU": 30,
+      "darkness": 3,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/Green_Line_Thumb.jpg"
+    },
+    {
+      "name": "Honker's Ale",
+      "brewery": "Goose Island",
+      "ABV": 4.2,
+      "IBU": 30,
+      "darkness": 3,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/honkers_thumb2.jpg"
+    },
+    {
+      "name": "India Pale Ale",
+      "brewery": "Goose Island",
+      "ABV": 5.9,
+      "IBU": 55,
+      "darkness": 3,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/ipa_thumb2.jpg"
+    },
+    {
+      "name": "Summertime",
+      "brewery": "Goose Island",
+      "ABV": 4.7,
+      "IBU": 20,
+      "darkness": 2,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/summertime_thumb2.jpg"
+    },
+    {
+      "name": "Harvest Ale",
+      "brewery": "Goose Island",
+      "ABV": 5.7,
+      "IBU": 35,
+      "darkness": 5,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/harvest_ale_thumb2.jpg"
+    },
+    {
+      "name": "Mild Winter",
+      "brewery": "Goose Island",
+      "ABV": 5.6,
+      "IBU": 28,
+      "darkness": 10,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/mild_winter_thumb2.jpg"
+    },
+    {
+      "name": "Christmas Ale",
+      "brewery": "Goose Island",
+      "ABV": 6.2,
+      "IBU": 35,
+      "darkness": 7,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/Christmas_thumb.jpg"
+    },
+    {
+      "name": "Sofie",
+      "brewery": "Goose Island",
+      "ABV": 6.5,
+      "IBU": 25,
+      "darkness": 2,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/sofie_thumb_2010.gif"
+    },
+    {
+      "name": "Matilda",
+      "brewery": "Goose Island",
+      "ABV": 7.0,
+      "IBU": 32,
+      "darkness": 9,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/matilda_thumb_2010.gif"
+    },
+    {
+      "name": "Fleur",
+      "brewery": "Goose Island",
+      "ABV": 5.2,
+      "IBU": 32,
+      "darkness": 8,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/fleur_thumb.jpg"
+    },
+    {
+      "name": "Pere Jacques",
+      "brewery": "Goose Island",
+      "ABV": 8.0,
+      "IBU": 26,
+      "darkness": 9,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/pere_jacques_thumb_2010.gif"
+    },
+    {
+      "name": "Pepe Nero",
+      "brewery": "Goose Island",
+      "ABV": 6.0,
+      "IBU": 30,
+      "darkness": 10,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/pepenero_thumb.jpg"
+    },
+    {
+      "name": "Juliet",
+      "brewery": "Goose Island",
+      "ABV": 6.7,
+      "IBU": 15,
+      "darkness": 8,
+      "thumbnail_url": "http://www.gooseisland.com/filebin/images/products/thumbs/juliet_thumb_2010.jpg"
+    },
+    {
+      "name": "Madame Rose",
+      "brewery": "Goose Island",
+      "ABV": 6.5,
+      "IBU": 25,
+      "darkness": 8,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/MR_thumb_2010.jpg"
+    },
+    {
+      "name": "Lolita",
+      "brewery": "Goose Island",
+      "ABV": 7.0,
+      "IBU": 32,
+      "darkness": 8,
+      "thumbnail_url": "http://www.gooseisland.com/goosefilebin/images/products/thumbs/lolita_thumb_2010.jpg"
+    }    
+  ]
+}
